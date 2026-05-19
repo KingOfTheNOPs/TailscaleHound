@@ -19,7 +19,7 @@ Thank you to [@Sw4mpf0x](https://github.com/Sw4mpf0x) for helping create this to
 
 ## Current Coverage
 
-TailscaleHound currently defines 38 node kinds and 63 relationship kinds.
+TailscaleHound currently defines 39 node kinds and 64 relationship kinds.
 
 Primary node kinds include:
 
